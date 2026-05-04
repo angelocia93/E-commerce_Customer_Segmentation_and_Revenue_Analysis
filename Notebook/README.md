@@ -14,6 +14,7 @@ Creation of aggregated datasets
 Outputs:
 
 monthly_sales.csv → monthly revenue trends
+
 category_sales.csv → product category performance
 rfm_customers.csv → customer-level RFM metrics
 segment_summary.csv → RFM segment aggregation

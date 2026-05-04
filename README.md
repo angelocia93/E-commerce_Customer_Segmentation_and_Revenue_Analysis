@@ -15,7 +15,7 @@ The project aims to analyze overall and monthly revenue trends in order to under
 Tools & Technologies
 
 SQL (SQLite) → data extraction and KPI calculation  
-Python (Pandas, NumPy, Matplotlib, Scikit-learn) → data cleaning, analysis, segmentation  
+Python (Pandas, NumPy, Matplotlib, Scikit-learn) → data cleaning, feature engineering and CSV preparation for Power BI  
 Power BI → interactive dashboard and data visualization  
 
 ---
@@ -25,13 +25,13 @@ Project Structure
 ```text
 Olist_dataset_analysis/
 │
-├── data/
-│   ├── raw/                # Original dataset (not included)
-│   └── processed/          # Cleaned datasets used for analysis
+├── Data/
+│   ├── Raw/                # Original dataset (not included)
+│   └── Processed/          # Cleaned datasets used for analysis
 │
-├── sql/                    # SQL queries for KPI and analysis
-├── notebooks/              # Exploratory analysis and segmentation
-├── src/                    # Python scripts
-├── dashboard & insights /              # Power BI dashboard, exports and insights
+├── SQL/                    # SQL queries for KPI and analysis
+├── Notebooks/              # Exploratory analysis and segmentation
+├── SRC/                    # Python scripts
+├── Dashboard & Insights /              # Power BI dashboard, exports and insights
 │
 └── README.md

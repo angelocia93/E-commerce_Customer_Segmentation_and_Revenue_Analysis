@@ -4,12 +4,11 @@ This folder contains the Python workflow used to clean, transform, and structure
 
 The process includes:
 
-Data cleaning and preprocessing
-Merging multiple datasets into a unified table
-Feature engineering (revenue, time-based metrics)
-RFM customer analysis
-Customer segmentation using RFM and K-Means
-Creation of aggregated datasets
+The process starts with data cleaning and preprocessing to ensure consistency and reliability.
+Multiple datasets are then merged into a unified table, creating a solid foundation for further analysis.
+From this base, additional features are engineered, including revenue-related and time-based metrics.
+The workflow also includes an RFM analysis to evaluate customer behavior, followed by segmentation using both RFM scores and K-Means clustering.
+Finally, the data is aggregated into structured datasets, ready to be used in Power BI.
 
 Outputs:
 

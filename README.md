@@ -14,9 +14,9 @@ The project aims to analyze overall and monthly revenue trends in order to under
 
 Tools & Technologies
 
-- SQL (SQLite) → data extraction and KPI calculation  
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn) → data cleaning, analysis, segmentation  
-- Power BI → interactive dashboard and data visualization  
+SQL (SQLite) → data extraction and KPI calculation  
+Python (Pandas, NumPy, Matplotlib, Scikit-learn) → data cleaning, analysis, segmentation  
+Power BI → interactive dashboard and data visualization  
 
 ---
 

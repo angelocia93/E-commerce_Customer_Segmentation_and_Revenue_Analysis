@@ -16,8 +16,11 @@ Outputs:
 monthly_sales.csv → monthly revenue trends
 
 category_sales.csv → product category performance
+
 rfm_customers.csv → customer-level RFM metrics
+
 segment_summary.csv → RFM segment aggregation
+
 cluster_summary.csv → clustering-based customer segmentation
 
 All outputs are exported as .csv files and are ready to be used in Power BI.
